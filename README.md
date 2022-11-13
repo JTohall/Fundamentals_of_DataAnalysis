@@ -1,2 +1,3 @@
-# Fundamentals_of_DataAnalysis
-Coursework for FoDA 2022
+## Fundamentals of Data Analysis
+
+Coursework for Fundamentals of Data Analysis 2022
