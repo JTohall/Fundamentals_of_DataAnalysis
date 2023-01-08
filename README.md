@@ -95,13 +95,26 @@ https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/
 
 ---
 
-### Normal Distribution Assignment
+## Normal Distribution Assignment
 
 **Assignment outline:**<br/>
 • Create a notebook about the normal distribution.<br/>
 • Define and explain the main concepts.<br/>
 • Pitch the notebook at your classmates.<br/>
 • Use visuals like plots to explain concepts.<br/>
+
+<br/>
+
+## Contents
+
+* What is Normal Distribution?<br/>
+* Why is it called Gaussian Distribution? <br/>
+* Why Normal Distribution matters<br/>
+* Properties of Nomal Distribution<br/>
+* Examples of Normal Distribution<br/>
+* Roll the dice<br/>
+* Plotting Normal Distribution with Python<br/>
+* Plotting multiple Normal Distributions<br/>
 
 ---
 
