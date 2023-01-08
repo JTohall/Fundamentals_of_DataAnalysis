@@ -119,3 +119,25 @@ https://github.com/ianmcloughlin/2223-S1-fund-data-analysis/blob/main/notebooks/
 ---
 
 ## References
+
+[1] https://www.scribbr.com/statistics/normal-distribution/<br/>
+[2] https://en.wikipedia.org/wiki/Normal_distribution<br/>
+[3] https://corporatefinanceinstitute.com/resources/data-science/normal-distribution/<br/>
+[4] https://www.w3schools.com/statistics/statistics_normal_distribution.php<br/>
+[5] https://www.mathsisfun.com/data/standard-normal-distribution.html<br/>
+[6]https://www.bing.com/videos/searchq=what+is+normal+distribution&view=detail&mid=0FAEF9378CFE598FB6E50FAEF9378CFE598FB6E5&FORM=VIRE<br/>
+[7]https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/10.1002/cem.2655#:~:text=The%20normal%20%28or%20Gaussian%29%20distribution%20was%20%EF%AC%81rst%20described,in%20the%20developing%20area%20of%20appliedprobability%20and%20statistics.<br/>
+[8] https://www.britannica.com/biography/Carl-Friedrich-Gauss<br/>
+[9] https://medium.com/fintechexplained/ever-wondered-why-normal-distribution-is-so-important-110a482abee3<br/>
+[10] https://integratedmlai.com/normal-distribution-an-introductory-guide-to-pdf-and-cdf/#:~:text=The%20discovery%20of%20the%20normal%20distribution%20was%20first,and%20was%20also%20a%20consultant%20to%20many%20gamblers.<br/>
+[11] https://www.wallstreetmojo.com/normal-distribution-formula/<br/>
+[12] https://www.vedantu.com/formula/normal-distribution-formula<br/>
+[13] https://bookdown.org/pkaldunn/SRM-tutorials/NormalHeights.html#:~:text=Heights%20have%20an%20approximate%20normal%20%28bell-shape%29%20distribution%2C%20so,are%20shorter%20than%20you.%20%28Hint%3A%20Draw%20a%20picture%21%29<br/>
+[14] https://www.mathsisfun.com/data/standard-normal-distribution.html<br/>
+[15] https://www.qualitygurus.com/normal-gaussian-distribution/<br/>
+[16] https://www.cuemath.com/normal-distribution-formula/<br/>
+[17]https://stats.libretexts.org/Courses/Taft_College/PSYC_2200%3A_Elementary_Statistics_for_Behavioral_and_Social_Sciences_(Oja)/Unit_1%3A_Description/4%3A_Distributions/4.05%3A_Normal_Distributions_and_Probability_Distributions<br/>
+[18] https://www.statology.org/generate-normal-distribution-python/#:~:text=How%20to%20Generate%20a%20Normal%20Distribution%20in%20Python,which%20uses%20the%20following%20syntax%3A%20numpy.random.normal%28loc%3D0.0%2C%20scale%3D1.0%2C%20size%3DNone%29<br/>
+[19] https://www.askpython.com/python/normal-distribution<br/>
+[20] https://theprogrammingexpert.com/python-coin-flip/<br/>
+[21] https://stackoverflow.com/questions/65071627/python-function-that-simulates-rolling-dice-based-on-input-parameters-1-number<br/>
